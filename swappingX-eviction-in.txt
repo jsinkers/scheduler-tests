@@ -1,0 +1,1 @@
+./scheduler -f swappingX-eviction.txt -a rr -m p -s 40 -q 10
